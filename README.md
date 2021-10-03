@@ -26,3 +26,10 @@ How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
 ![showcase](https://github.com/rkfael/PCB-Artwork-Moon-Patrol/blob/main/rootimages/Picture%201.jpg)
 
+## More about it:
+
+For more pictures and PCB Art ideas check my instagram profile [@notas_eletronicas](https://www.instagram.com/notas_eletronicas/)
+
+## YouTube channel:
+
+Subscribe at my [YouTube channel](https://www.youtube.com/channel/UCUXV45PUONuPi8HNMYXnK5g)
