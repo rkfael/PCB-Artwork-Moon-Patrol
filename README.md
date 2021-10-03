@@ -15,3 +15,14 @@ Editable project access: [*EasyEDA*](https://easyeda.com/editor#id=|fd3d5b491e8a
 How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
 **Figure 1 - Top Side**
+
+![showcase](https://github.com/rkfael/PCB-Artwork-Moon-Patrol/blob/main/rootimages/Figura%201%20-%20Top%20Side.png)
+
+**Figure 2 - Bottom Side**
+
+![showcase](https://github.com/rkfael/PCB-Artwork-Moon-Patrol/blob/main/rootimages/Figura%202%20-%20Bottom%20Side.png)
+
+**Picture 1 - Moon Patrol PCB Keychain**
+
+![showcase](https://github.com/rkfael/PCB-Artwork-Moon-Patrol/blob/main/rootimages/Picture%201.jpg)
+
